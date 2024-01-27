@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evolvesofttech/nodejs-test.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Sameer Thite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evolvesofttech/nodejs-test/issues"
+  },
+  "homepage": "https://github.com/evolvesofttech/nodejs-test#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "body-parser": "^1.20.2",
+    "chromedriver": "^121.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "selenium-binaries": "^0.15.0",
+    "selenium-webdriver": "^4.17.0"
+  }
+}
